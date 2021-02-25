@@ -1,0 +1,23 @@
+.todo_form{
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 50px;
+    display: flex;
+}
+.todo_input{
+    height: 30px;
+    width: 200px;
+    border-top: none;
+    border-bottom-color: paleturquoise;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    font-size: 25px;
+    background-color: rgb(243, 241, 231);
+    border-radius: 3px;
+}
+.todo_btn{
+    background-color: cornsilk;
+    border: 2px solid rgb(132, 202, 219);
+    border-radius: 2px;
+}

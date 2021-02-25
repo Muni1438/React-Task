@@ -1,0 +1,26 @@
+.data_input{
+    height: 20px;
+    width: 100px;
+    border-top: none;
+    border-bottom-color: paleturquoise;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    font-size: 15px;
+    background-color: rgb(243, 241, 231);
+    border-radius: 3px;
+
+}
+.data_p{
+    margin-left: 550px;
+    margin-right: 500px; 
+    margin-top: 40px;
+    display: flex;
+
+}
+.data_btn{
+    background-color: cornsilk;
+    border: 2px solid rgb(132, 202, 219);
+    border-radius: 2px;
+    padding: 3px 4px 1.8px 4px;
+}
